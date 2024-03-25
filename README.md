@@ -15,5 +15,5 @@ Small disclaimer: I will try to use as few ChatGPT as possible.
 L'idée simple derrière cette repository est de présenter tous les exercice LeetCode que je ferai dans le futur.
 Ouais, je sais qu'il y a des milliers d'autres repos comme le mien, je l'utilise pour moi, car j'aime l'idée d'expliquer le flux de pensées que j'ai eu pendant la création.
 Si cette sera utile ne serait-ce qu'à une seule personne en dehors de moi, le objectif sera atteint.
-Si vous avez des idées, questions ou quelque chose de ce genre (même des suggestions d'amélioration), n'hésitez pas à ouvrir une discussion : Je serai plus que heureux d'y répondre !
+Si vous avez des idées, questions ou quelque chose de ce genre (même des suggestions d'amélioration), n'hésitez pas à ouvrir une discussion : Je serai plus que heureux d'y répondre!
  
